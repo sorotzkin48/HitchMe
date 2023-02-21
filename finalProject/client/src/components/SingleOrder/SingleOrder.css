@@ -1,0 +1,38 @@
+ .singleOrderDiv{
+
+    padding: 2%;
+      /* flex-grow: 1; */
+    flex-basis: 16%;
+    color: white;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 15px;
+    border: white solid 1px;
+    margin-top:30px;
+   margin-left:30px;
+   margin-right:30px;
+   
+
+    /* margin: 100px;
+    color: white;
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 15px; */
+    
+    /* border-bottom: 1px solid #cecece; */
+
+} 
+
+h3{
+  white-space: nowrap;
+}
+
+
+/* .singleCarDiv:not(:last-child){
+    flex-grow: 1;
+} */
+
+.btn1{
+  color: white;
+  border: 1px white solid;
+}

@@ -1,0 +1,14 @@
+.myOrders{
+    margin-left: -50vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: multi-line;
+    font-family: cursive;
+    justify-content: flex-start;
+    /* margin-left: 100px;
+   */
+    /* display: flex;
+    flex-direction: row;
+    font-family: cursive;
+    justify-content: space-between; */
+}

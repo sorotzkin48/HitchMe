@@ -1,0 +1,17 @@
+.homeDiv{
+/* display:flex;
+flex-direction: row;
+justify-content: space-around; */
+top: 0 !important;
+background-color: #565C5C !important;
+width: 80vw;
+position: fixed;
+/* margin-left: -500px; */
+}
+
+.welcome{
+    margin-top: 5vh;
+    margin-right: 70vw;
+    margin-left: -20vw;
+    font-family: cursive;
+}

@@ -1,0 +1,11 @@
+.leave{
+    margin-top: 20vh;
+    margin-left: -25vh;
+    border: 1px white solid;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px 10px 10px 10px;
+    /* height: 50px; */
+    /* width: 400px; */
+    /* justify-content: space-between; */
+}

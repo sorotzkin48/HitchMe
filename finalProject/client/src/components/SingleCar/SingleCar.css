@@ -1,0 +1,39 @@
+.singleCarDiv {
+  width: 600px;
+  padding: 2%;
+  /* flex-grow: 1; */
+  flex-basis: 16%;
+  /* color: white; */
+  font-family: cursive !important;
+  font-weight: 100;
+  font-size: 15px;
+  /* border: #1D7C7C solid 1px; */
+  margin-left: -20vw;
+  /* margin-top: 5vh; */
+  /* margin-top: 30px;
+  margin-left: 600px;
+  margin-right: 600px; */
+  font-family: cursive;
+  /* justify-content: flex-start; */
+}
+
+.carPic{
+  margin-left: 10vw;
+  height: 10vh;
+  width: 10vw;
+}
+
+
+table, th, td {
+  padding: 20px !important;
+  border: 1px solid white !important;
+  border-collapse: collapse;
+  border-bottom: 1px solid white;
+}
+
+
+
+/* display: grid;
+grid-template-columns: 1fr, 13fr, 1fr;
+gap: 10px;
+grid-template-rows:repeat(3, 1fr); */

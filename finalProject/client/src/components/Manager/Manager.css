@@ -1,0 +1,53 @@
+.navManager{
+  
+        /* display:flex;
+        flex-direction: row;
+        justify-content: space-around; */
+        top: 0 !important;
+        background-color: #565C5C !important;
+        width: 80vw;
+        position: fixed;
+        /* margin-left: -500px; */
+    
+    /* display:flex;
+    flex-direction: row;
+    justify-content: space-around; */
+    /* top: 0 !important;
+    background-color: #565C5C !important;
+    width: 80vw;
+    position: fixed;
+    color:  #1D7C7C !important; */
+
+    /* margin-left: -500px; */
+        
+
+    
+}
+
+.managerNavBar{
+display: flex;
+    /* margin-right: 70vw; */
+    margin-left: -20vw;
+    justify-content: space-between;
+    margin-top:  0 !important;
+    color:  #1D7C7C !important;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.nav-link{
+    color:  #1D7C7C !important;
+    
+}
+
+/* i{
+    display: block;
+} */
+
+.on:hover{
+    display: block !important;
+}
+
+

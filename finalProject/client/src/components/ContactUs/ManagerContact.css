@@ -1,0 +1,35 @@
+h1, h3 {
+    text-align: center;
+}
+
+table {
+    border-spacing: 0px;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    color: #1D7C7C;            
+    border: 1px solid white;
+}
+
+td {
+    border: 1px solid white;
+    word-wrap: break-word;
+    padding: 20px;
+}
+
+.contentTd{
+    width: 500px;
+}
+
+.readBtn{
+    color:white !important;
+    border: none !important;
+    background-color: #1D7C7C;
+    border-radius: 10px;
+    background-color: #1D7C7C !important;
+    border-radius: 5px !important;
+    padding: 5px !important;
+}
